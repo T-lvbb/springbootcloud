@@ -1,4 +1,2 @@
 # springbootcloud
 springbootcloud
-wozaina
-asdfiodashfiuowehriurhew
